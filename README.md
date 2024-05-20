@@ -2,10 +2,6 @@
 
 Este repositorio contiene una colección de ejercicios resueltos en Python relacionados con la manipulación de archivos. Cada ejercicio aborda diferentes aspectos de la lectura, escritura y manipulación de archivos de texto en Python.
 
-# Ejercicios de Manipulación de Archivos en Python
-
-Este repositorio contiene una colección de ejercicios resueltos en Python relacionados con la manipulación de archivos. Cada ejercicio aborda diferentes aspectos de la lectura, escritura y manipulación de archivos de texto en Python.
-
 ## Ejercicios incluidos
 
 1. **Generador de Tablas de Multiplicar:** Este programa solicita al usuario un número entero entre 1 y 10 y genera la tabla de multiplicar de ese número. Luego, guarda la tabla de multiplicar en un archivo de texto con el formato adecuado.
